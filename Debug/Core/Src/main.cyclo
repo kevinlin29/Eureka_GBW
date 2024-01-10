@@ -1,0 +1,4 @@
+../Core/Src/main.c:77:7:GetStableWeight	5
+../Core/Src/main.c:107:5:main	16
+../Core/Src/main.c:436:6:SystemClock_Config	3
+../Core/Src/main.c:485:6:Error_Handler	1
